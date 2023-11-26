@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de desenvolvimento de um portfólio.
 
-Para acessar o projeto [clique aqui]() ou acesse em:  <br>
+Para acessar o projeto [clique aqui](https://stellar-unicorn-fd0543.netlify.app/)
 
 ## 🔖 Layout
 
